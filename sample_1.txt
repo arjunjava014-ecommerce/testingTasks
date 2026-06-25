@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is another file.this is another file.this is another file.this is another file.this is another file.this is another file.sss
-=======
-this is another file.12345666
->>>>>>> c7093b7d264389ef04b276734acf208e0dfd263f
+this is another file.this is another file.this is another file.this is another file.this is another file.this is another file.12345666
